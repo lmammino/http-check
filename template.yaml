@@ -21,3 +21,6 @@ Resources:
       Runtime: nodejs18.x
       Architectures:
         - x86_64
+      Environment:
+        Variables:
+          LOG_LEVEL: DEBUG

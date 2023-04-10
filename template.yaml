@@ -24,3 +24,4 @@ Resources:
       Environment:
         Variables:
           LOG_LEVEL: DEBUG
+          POWERTOOLS_LOGGER_LOG_EVENT: "true"

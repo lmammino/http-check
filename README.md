@@ -1,5 +1,11 @@
 # http-check
 
+An example Lambda used to demonstrate some Serverless concepts for the talk: ["Production-ready lambdas with Node.js"](https://loige.link/prod-lambda), delivered at JSDay in Verona in April 2023.
+
+[![Slide cover for the talk "Production-ready lambdas with Node.js" by Luciano Mammino](./images/slides-cover.png)](https://loige.link/prod-lambda)
+
+---
+
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
 - hello-world - Code for the application's Lambda function.
